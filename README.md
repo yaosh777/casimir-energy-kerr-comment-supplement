@@ -1,6 +1,6 @@
 # Derivations and Code for "Comment on 'Casimir energy in Kerr space-time'"
 
-Supplementary derivations and code for "Comment on 'Casimir energy in Kerr space-time'".
+Supplementary derivations and code for *Comment on "Casimir energy in Kerr space-time"*.
 
 - [Detailed derivations (PDF, A4 refined)](Comment_on_Casimir_Energy_in_Kerr_Spacetime_Detailed_Derivations_A4_refined.pdf)
 - [Detailed derivations (LaTeX source, A4 refined)](Comment_on_Casimir_Energy_in_Kerr_Spacetime_Detailed_Derivations_A4_refined.tex)
