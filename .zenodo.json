@@ -1,0 +1,13 @@
+{
+  "title": "Derivations and Code for \"Comment on 'Casimir energy in Kerr space-time'\"",
+  "creators": [
+    {
+      "name": "Yao, Shaohui"
+    }
+  ],
+  "description": "Detailed mathematical derivations and symbolic Python calculations accompanying Comment on \"Casimir energy in Kerr space-time\". Includes derivations in PDF, LaTeX, and LyX formats, plus Python and Jupyter code for partial derivatives of the metric tensor components.",
+  "version": "1.0.0",
+  "upload_type": "software",
+  "access_right": "open",
+  "language": "eng"
+}
