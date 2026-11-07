@@ -9,5 +9,6 @@
   "version": "1.0.0",
   "upload_type": "software",
   "access_right": "open",
-  "language": "eng"
+  "language": "eng",
+  "license": "cc-by-4.0"
 }
